@@ -59,9 +59,29 @@ PrefabInstance:
       propertyPath: changeTime
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 4600445995777028319, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
+      propertyPath: smokeEffect
+      value: 
+      objectReference: {fileID: 4842907882557121154}
     - target: {fileID: 6782838032166722671, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
       propertyPath: m_Name
       value: Faster speed  enemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 7190044099703527844, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8983401819138340435, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8983401819138340435, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 8983401819138340435, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.69
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
@@ -90,3 +110,8 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!198 &4842907882557121154 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 4148447787905634921, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
+  m_PrefabInstance: {fileID: 8838112267487637739}
+  m_PrefabAsset: {fileID: 0}
