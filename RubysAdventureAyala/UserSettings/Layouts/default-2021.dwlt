@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 108
+  controlID: 22
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +169,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 109
+  controlID: 23
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -189,8 +189,8 @@ MonoBehaviour:
     y: 0
     width: 362
     height: 560
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -269,8 +269,8 @@ MonoBehaviour:
     y: 0
     width: 455
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -399,9 +399,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 5.5000057}
-      m_SelectedIDs: 74140000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: f2faffffc861000004620000
+      m_ExpandedIDs: 44faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -672,7 +672,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -18.111786, y: -0.7895957, z: 0.80833846}
+    m_Target: {x: 200.57101, y: 469.50967, z: -1.4113704}
     speed: 2
     m_Value: {x: -18.111786, y: -0.7895957, z: 0.80833846}
   m_RenderMode: 0
@@ -725,7 +725,7 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 36.905647
+    m_Target: 83.557724
     speed: 2
     m_Value: 36.905647
   m_Ortho:
@@ -746,7 +746,7 @@ MonoBehaviour:
     m_DynamicClip: 1
     m_OcclusionCulling: 0
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
-  m_LastSceneViewOrtho: 1
+  m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_SceneVisActive: 1
@@ -793,22 +793,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\a7150\OneDrive\Documents\Unity\GitHub\RubysAdventureAyalaP2\RubysAdventureAyala
+  m_LastProjectPath: C:\Users\715018\Documents\Unity\GitHub\RubysAdventureAyalaP2\RubysAdventureAyala
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0e650000
-    m_LastClickedID: 25870
-    m_ExpandedIDs: 00000000e4640000e664000000ca9a3b
+    m_SelectedIDs: 7c680000
+    m_LastClickedID: 26748
+    m_ExpandedIDs: 000000007c6800007e680000806800008268000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -836,7 +836,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e4640000e6640000e8640000ea640000
+    m_ExpandedIDs: 000000007c6800007e6800008068000082680000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
