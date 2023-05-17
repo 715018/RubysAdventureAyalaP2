@@ -21,7 +21,11 @@ MonoBehaviour:
   m_ShowMode: 4
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Title: Project
+=======
+  m_Title: Hierarchy
+>>>>>>> parent of 7def007 (finished project)
 =======
   m_Title: Hierarchy
 >>>>>>> parent of 7def007 (finished project)
@@ -129,7 +133,11 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 55
+=======
+  controlID: 9895
+>>>>>>> parent of 7def007 (finished project)
 =======
   controlID: 9895
 >>>>>>> parent of 7def007 (finished project)
@@ -162,7 +170,11 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 61
+=======
+  controlID: 9896
+>>>>>>> parent of 7def007 (finished project)
 =======
   controlID: 9896
 >>>>>>> parent of 7def007 (finished project)
@@ -195,7 +207,11 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 18
+=======
+  controlID: 9897
+>>>>>>> parent of 7def007 (finished project)
 =======
   controlID: 9897
 >>>>>>> parent of 7def007 (finished project)
@@ -432,6 +448,7 @@ MonoBehaviour:
     m_TreeViewState:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: a69a0000
       m_LastClickedID: 0
@@ -439,11 +456,16 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of 7def007 (finished project)
+=======
+>>>>>>> parent of 7def007 (finished project)
       scrollPos: {x: 0, y: 26}
       m_SelectedIDs: baf8ffff
       m_LastClickedID: -1862
       m_ExpandedIDs: c2dfffffaee6ffffbaf8ffffdaf8ffff42fbffffaa630000d8630000e463000050640000
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7def007 (finished project)
+=======
 >>>>>>> parent of 7def007 (finished project)
 =======
 >>>>>>> parent of 7def007 (finished project)
@@ -719,9 +741,15 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 200.57101, y: 469.50967, z: -1.4113704}
     speed: 2
     m_Value: {x: 200.57101, y: 469.50967, z: -1.4113704}
+=======
+    m_Target: {x: -37.643303, y: 44.558704, z: 1.2329185}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 7def007 (finished project)
 =======
     m_Target: {x: -37.643303, y: 44.558704, z: 1.2329185}
     speed: 2
@@ -784,9 +812,15 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 83.557724
     speed: 2
     m_Value: 83.557724
+=======
+    m_Target: 8.063294
+    speed: 2
+    m_Value: 10
+>>>>>>> parent of 7def007 (finished project)
 =======
     m_Target: 8.063294
     speed: 2
@@ -864,7 +898,11 @@ MonoBehaviour:
     m_Folders:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Scenes
+=======
+    - Assets/Art/Sprites
+>>>>>>> parent of 7def007 (finished project)
 =======
     - Assets/Art/Sprites
 >>>>>>> parent of 7def007 (finished project)
@@ -878,7 +916,11 @@ MonoBehaviour:
   m_LastFolders:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - Assets/Scenes
+=======
+  - Assets/Art/Sprites
+>>>>>>> parent of 7def007 (finished project)
 =======
   - Assets/Art/Sprites
 >>>>>>> parent of 7def007 (finished project)
@@ -893,9 +935,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 9c9a0000
     m_LastClickedID: 39580
     m_ExpandedIDs: 00000000929a000000ca9a3b
+=======
+    m_SelectedIDs: 42660000
+    m_LastClickedID: 26178
+    m_ExpandedIDs: 000000003e66000040660000426600006466000000ca9a3b
+>>>>>>> parent of 7def007 (finished project)
 =======
     m_SelectedIDs: 42660000
     m_LastClickedID: 26178
@@ -935,7 +983,11 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 
+=======
+    m_ExpandedIDs: 000000003e66000040660000426600006466000000ca9a3b
+>>>>>>> parent of 7def007 (finished project)
 =======
     m_ExpandedIDs: 000000003e66000040660000426600006466000000ca9a3b
 >>>>>>> parent of 7def007 (finished project)
