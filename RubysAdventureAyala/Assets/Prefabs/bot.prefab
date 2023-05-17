@@ -53,11 +53,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1360188900455378702, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
       propertyPath: m_Size.y
-      value: 2.251484
+      value: 0.8453064
       objectReference: {fileID: 0}
     - target: {fileID: 1360188900455378702, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
       propertyPath: m_Offset.y
-      value: 0.08630943
+      value: -0.6167793
       objectReference: {fileID: 0}
     - target: {fileID: 4600445995777028319, guid: e9a311d8c81529f4a8225aef5d69c5ef, type: 3}
       propertyPath: speed
@@ -120,7 +120,7 @@ AudioSource:
   Priority: 128
   DopplerLevel: 1
   MinDistance: 1
-  MaxDistance: 100
+  MaxDistance: 50
   Pan2D: 0
   rolloffMode: 0
   BypassEffects: 0

@@ -19,7 +19,11 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
+<<<<<<< HEAD
   m_Title: Project
+=======
+  m_Title: Hierarchy
+>>>>>>> parent of 7def007 (finished project)
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -73,7 +77,7 @@ MonoBehaviour:
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
-  m_LastLoadedLayoutName: 
+  m_LastLoadedLayoutName: Default
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -119,7 +123,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< HEAD
   controlID: 55
+=======
+  controlID: 9895
+>>>>>>> parent of 7def007 (finished project)
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +152,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
   controlID: 61
+=======
+  controlID: 9896
+>>>>>>> parent of 7def007 (finished project)
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -169,7 +181,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< HEAD
   controlID: 18
+=======
+  controlID: 9897
+>>>>>>> parent of 7def007 (finished project)
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -398,24 +414,31 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
+<<<<<<< HEAD
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: a69a0000
       m_LastClickedID: 0
       m_ExpandedIDs: 2cbfffff70c0ffff
+=======
+      scrollPos: {x: 0, y: 26}
+      m_SelectedIDs: baf8ffff
+      m_LastClickedID: -1862
+      m_ExpandedIDs: c2dfffffaee6ffffbaf8ffffdaf8ffff42fbffffaa630000d8630000e463000050640000
+>>>>>>> parent of 7def007 (finished project)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: bot
+        m_OriginalName: bot
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -1862
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 8}
       m_SearchString: 
@@ -672,9 +695,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 200.57101, y: 469.50967, z: -1.4113704}
     speed: 2
     m_Value: {x: 200.57101, y: 469.50967, z: -1.4113704}
+=======
+    m_Target: {x: -37.643303, y: 44.558704, z: 1.2329185}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 7def007 (finished project)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -725,9 +754,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 83.557724
     speed: 2
     m_Value: 83.557724
+=======
+    m_Target: 8.063294
+    speed: 2
+    m_Value: 10
+>>>>>>> parent of 7def007 (finished project)
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -793,22 +828,36 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Scenes
+=======
+    - Assets/Art/Sprites
+>>>>>>> parent of 7def007 (finished project)
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
   - Assets/Scenes
+=======
+  - Assets/Art/Sprites
+>>>>>>> parent of 7def007 (finished project)
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\715018\Documents\Unity\Github\RubysAdventureAyalaP2\RubysAdventureAyala
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 9c9a0000
     m_LastClickedID: 39580
     m_ExpandedIDs: 00000000929a000000ca9a3b
+=======
+    m_SelectedIDs: 42660000
+    m_LastClickedID: 26178
+    m_ExpandedIDs: 000000003e66000040660000426600006466000000ca9a3b
+>>>>>>> parent of 7def007 (finished project)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -836,7 +885,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 
+=======
+    m_ExpandedIDs: 000000003e66000040660000426600006466000000ca9a3b
+>>>>>>> parent of 7def007 (finished project)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
